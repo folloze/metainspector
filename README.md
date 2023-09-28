@@ -14,6 +14,8 @@ mainly other gems that required a newer version of faraday that metainspector di
 we couldn't find any official version that plays nicely with all of our other gems,
 so the fork her is basically changing the depdencises versions required in runtime in hope it won't break anything else.
 
+changes are for version 5.8.0!
+
 ## Installation
 
 Install the gem from RubyGems:
