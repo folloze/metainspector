@@ -5,7 +5,8 @@ MetaInspector is a gem for web scraping purposes.
 
 You give it an URL, and it lets you easily get its title, links, images, charset, description, keywords, meta tags...
 
-FORK NOTE:
+## Why we had to fork the gem?
+
 We had to fork it during upgrading from Rails 4 to Rails 5, metainspector is used in our system when add a link type content,
 it is used to fetch the metadata from the website.
 meainspecotr in version 5.4 which we used in Rails 4 stopped working nicely with other gems,
